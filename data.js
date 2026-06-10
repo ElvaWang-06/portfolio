@@ -16,15 +16,6 @@ window.SITE = {
     data:      { key:"data",      name:"Data-Driven Decisions",       blurb:"Evaluation, econometrics, and machine learning that inform decisions." }
   },
 
-  // "How I Work" — a real sequence, so the numbering carries meaning
-  process: [
-    { label:"Research",   text:"Interviews, surveys, observations, and source synthesis to ground the problem." },
-    { label:"Synthesis",  text:"Pattern-finding across qualitative and quantitative data." },
-    { label:"Strategy",   text:"Framing the decision and shaping a coordinated plan." },
-    { label:"Design",     text:"Building the artifact — curriculum, product, program, or model." },
-    { label:"Evaluation", text:"Testing against real outcomes and refining what ships." }
-  ],
-
   // homepage featured row (ids)
   featured: ["yousan","ham","amcham","istanbul","quant","camlab"],
 
